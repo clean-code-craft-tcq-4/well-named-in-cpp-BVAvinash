@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "telCoColorCoder_colorPair.hpp"
 
 const char* MajorColorNames[] = {"White", "Red", "Black", "Yellow", "Violet"};
